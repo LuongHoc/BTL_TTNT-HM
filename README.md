@@ -1,0 +1,2 @@
+# BTL_TTNT-HM
+ĐỀ TÀI : NHẬN DẠNG CỬ CHỈ TAY ĐIỀU KHIỂN TRÒ RẮN SĂN MỒI
