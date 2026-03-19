@@ -16,11 +16,23 @@ Dự án game rắn điều khiển bằng cử chỉ tay (MediaPipe + Machine L
 - Hệ điều hành Windows (có thể chạy trên OS khác nếu cài đủ thư viện)
 
 ## 2) Cài đặt thư viện
+Mở terminal tại thư mục dự án.
 
-Mở terminal tại thư mục dự án, chạy:
+Thư viện cần cài đã được liệt kê trong file `requirements.txt`.
+
+### Cách nhanh
 
 ```bash
-pip install numpy opencv-python mediapipe pygame scikit-learn joblib matplotlib
+pip install -r requirements.txt
+```
+
+### Cách khuyến nghị (dùng virtual environment)
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 ## 3) Cấu trúc file chính
